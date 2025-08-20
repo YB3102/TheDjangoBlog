@@ -93,6 +93,17 @@ This project covers:
 
 ---
 
+### New Article
+![New Article](images/pic7.png)
+
+### Articles
+![Articles](images/pic5.png)
+
+### Comment
+![Comment](images/pic6.png)
+
+---
+
 ## 🙌 Acknowledgements
 
 This project is built with the help and guidance of the following book:  
